@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				67,
+				149
+			],
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "monika left"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-1,
+				1
+			],
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "monika down"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1,
+				19
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "monika up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-67,
+				144
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "monika right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "monika idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/monika sad",
+	"position": [
+		340,
+		100
+	],
+	"healthicon": "empty",
+	"flip_x": false,
+	"healthbar_colors": [
+		175,
+		102,
+		206
+	],
+	"camera_position": [
+		-50,
+		80
+	],
+	"sing_duration": 6.1,
+	"scale": 0.8
+}
